@@ -46,7 +46,7 @@ void GUIMyFrame1::m_button1OnButtonClick( wxCommandEvent& event )
 
 void GUIMyFrame1::m_slider1OnScroll( wxScrollEvent& event )
 {
-// TODO: Implement m_slider1OnScroll
+// TODO: Implement m_slider1OnScrolll
 }
 
 void GUIMyFrame1::m_slider2OnScroll( wxScrollEvent& event )
